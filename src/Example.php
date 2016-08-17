@@ -10,6 +10,6 @@ class Example
 {
     public function index()
     {
-        echo 'This is test!';
+        echo 'This is test v1.0.2!';
     }
 }
